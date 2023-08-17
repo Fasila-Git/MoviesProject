@@ -1,0 +1,14 @@
+body{
+    background-color:#8eab96;
+}
+.my_title{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.my_nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
